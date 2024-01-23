@@ -1,0 +1,6 @@
+id=fbo_tryigitx
+name=Fbo Storage Refresh Active
+version=v99.9.9
+versionCode=9999
+author=tryigitx
+description=⏳ This module only works on devices with ufs 4.0 and ufs 3.1 support kernel.
