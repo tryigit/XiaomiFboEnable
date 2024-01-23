@@ -1,2 +1,5 @@
-# XiaomiFboEnable
-Fbo Storage Refresh Active Module / It's too dangerous, If you don't know, don't use it.
+# Fbo Stroge Refresh
+Increases the storage life of your phone.
+
+>[!TIP]
+>You can enable FBO Chart using HyperCeiler Lsposed module (Security Hook).
